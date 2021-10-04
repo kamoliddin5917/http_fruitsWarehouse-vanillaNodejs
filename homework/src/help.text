@@ -1,0 +1,2 @@
+http://localhost:3000/fruits   post: id, name, count
+http://localhost:3000/users    post: firstName, lastName

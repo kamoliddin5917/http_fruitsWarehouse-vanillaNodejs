@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "firstName": "Kamoliddin",
+        "lastName": "Jamoliddinov",
+        "fruits": [
+            {
+                "name": "ananas",
+                "count": 12
+            },
+            {
+                "name": "olma",
+                "count": 8
+            }
+        ]
+    }
+]
